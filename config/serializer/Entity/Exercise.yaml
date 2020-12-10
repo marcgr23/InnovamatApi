@@ -1,0 +1,14 @@
+App\Entity\Exercise:
+  attributes:
+    id:
+      groups: ['exercise']
+    name:
+      groups: ['exercise']
+    position:
+      groups: ['exercise']
+    level:
+      groups: ['exercise']
+    time:
+      groups: ['exercise']
+    solution:
+      groups: ['exercise']
